@@ -1,0 +1,12 @@
+.gray {
+    background-color: gray;
+}
+
+.red {
+    background-color: red;
+    color: white;
+}
+
+body {
+    background-color: antiquewhite;
+}
